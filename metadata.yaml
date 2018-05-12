@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32842'
     url: http://www.gutenberg.org/2009/agents/32842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27682#The-Panchronicon
 gutenberg_issued: '2009-01-01'
 gutenberg_type: Text
 identifiers:
